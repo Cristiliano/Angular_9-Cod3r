@@ -1,0 +1,12 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-confirm{
+    
+}
+
+button{
+    margin: 0.5rem 0.5rem 0.2rem 0;
+}
