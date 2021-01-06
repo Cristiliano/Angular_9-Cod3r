@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.5
+    },
+    {
+      "id": 3,
+      "name": "Notebook Sansumg",
+      "price": "6750.6"
+    },
+    {
+      "name": "Geladeira",
+      "price": 9000.99,
+      "id": 4
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.66,
+      "id": 5
+    },
+    {
+      "name": "teste",
+      "price": "123",
+      "id": 6
+    }
+  ]
+}
